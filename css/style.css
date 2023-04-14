@@ -27,3 +27,26 @@ header-block{
     padding-top: 30px;
     padding-bottom :20px;
 }
+/* just for testing purposes */
+header{
+    background: skyblue;
+    height: 82px;
+    width : 100%
+    
+}
+header-block{
+    width: 992px;
+    margin :  0 auto;
+}
+.logo{
+    width :50%;
+    float: left;
+}
+.facebook-logo{
+    width :50%;
+    float: left;
+}
+.logo{
+    padding-top: 30px;
+    padding-bottom :20px;
+}
